@@ -19,4 +19,4 @@ A search & ranking engine built on the TMDB 5000 Movies dataset, comparing multi
 - `movie_search_ir.ipynb` — full notebook: data cleaning → indexing → TF-IDF model → BM25 model → evaluation
 
 ## Dataset
-TMDB 5000 Movies & Credits dataset (not included in this repo — download from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) .
+TMDB 5000 Movies & Credits dataset (not included in this repo — download from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
